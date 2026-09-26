@@ -1,0 +1,5 @@
+# Contains our database password - never commit or share
+site/includes/config.php
+# Built zip for Canvas
+*.zip
+.DS_Store
