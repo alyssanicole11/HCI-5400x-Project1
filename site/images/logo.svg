@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="JoyWatch logo">
+  <rect x="4" y="12" width="56" height="40" rx="10" fill="#6b3fd4"/>
+  <rect x="22" y="52" width="20" height="5" rx="2.5" fill="#6b3fd4"/>
+  <circle cx="24" cy="28" r="3.5" fill="#fff"/>
+  <circle cx="40" cy="28" r="3.5" fill="#fff"/>
+  <path d="M21 36 Q32 46 43 36" stroke="#ff7a59" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>
